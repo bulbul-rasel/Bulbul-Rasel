@@ -1,7 +1,5 @@
 ### Hi there 👋,  Bulbul Ahammed
 #### A passionate MERN stack developer
-![A passionate MERN stack developer](https://media-exp1.licdn.com/dms/image/C4D16AQFmSJpviWk2aQ/profile-displaybackgroundimage-shrink_200_800/0/1653837107460?e=1663804800&v=beta&t=jO31W9kuV3huL8ofC3il0jusBMhLMppR43Ep90XMZsQ)
-
 I have been working as a React Developer. I am well-versed in all aspects of React development, from setting up the environment to creating components to using React.
 
 Skills:   REACT / JS / HTML / CSS/ Redux/ Bootstrap/ Tailwind/ MongoDB/ NodeJs/ ExpressJs
