@@ -5,7 +5,7 @@ I have been working as a React Developer. I am well-versed in all aspects of Rea
 Skills:   REACT / JS / HTML / CSS/ Redux/ Bootstrap/ Tailwind/ MongoDB/ NodeJs/ ExpressJs
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning TpeeScript React and Native 
+- 🌱 I’m currently learning Nextjs 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: rasel.bulbul7@gmail.com 
 
